@@ -33,4 +33,7 @@ Supports at the moment :
 - Titles (h1 to h6)
 - Links to local files
 - `br`
+
+Current bug going on :<br/>
+The titles will be at the top of the page, the links after them, and the regular text at the end.
 </details>
