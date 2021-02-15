@@ -22,3 +22,15 @@ Modify the HTML file as you wish.
 - For more help, type `python main.py -h`
 
 </details>
+
+## Changelog
+<details>
+
+<summary>Alpha 0.3</summary>
+
+First official commit.
+Supports at the moment :
+- Titles (h1 to h6)
+- Links to local files
+- `br`
+</details>
