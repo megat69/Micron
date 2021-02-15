@@ -14,7 +14,7 @@ Modify the HTML file as you wish.
 </details>
 
 ## Running my HTML file
-<details>
+<details open>
 <summary>Open</summary>
 - If you modified `index.html`, then you should just type `python main.py` in the any console of your computer.
 - If you created another file, then type `python main.py -f path`.
