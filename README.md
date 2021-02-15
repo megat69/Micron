@@ -26,7 +26,7 @@ Modify the HTML file as you wish.
 ## Changelog
 <details>
 
-<summary>Alpha 0.3</summary>
+<summary><b>Alpha 0.3</b></summary>
 
 First official commit.
 Supports at the moment :
